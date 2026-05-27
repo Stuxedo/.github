@@ -32,6 +32,4 @@ For inquiries, please reach out at [contact@stuxedo.com](mailto:contact@stuxedo.
 
 Thank you for visiting our profile! Together, we can make a significant impact in the tech community.
 
----
-
 *Stuxedo is part of the [Stux.Group](https://github.com/StuxGroup) Brand of Companies.*
