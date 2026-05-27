@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://global.media.stuxedo.com/logo.png" width="200" alt="Stuxedo Logo">
+  <img src="https://global.media.stuxedo.com/logo.png" height="100" alt="Stuxedo Logo">
 </p>
 
 # Stuxedo GitHub Configuration
