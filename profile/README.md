@@ -4,6 +4,8 @@
 
 ## Welcome to the Stuxedo Official GitHub!
 
+### *The Smarter, Greener Option*
+
 We are dedicated to delivering exceptional services and solutions. Here's how you can connect with us and support our mission!
 
 ### Connect with Us!
@@ -31,3 +33,5 @@ For inquiries, please reach out at [contact@stuxedo.com](mailto:contact@stuxedo.
 Thank you for visiting our profile! Together, we can make a significant impact in the tech community.
 
 ---
+
+*Stuxedo is part of the [Stux.Group](https://github.com/StuxGroup) Brand of Companies.*
