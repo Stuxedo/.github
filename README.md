@@ -56,4 +56,4 @@ This project is open source and available for use and modification.
 
 Made by [Stuxedo](https://github.com/Stuxedo)
 
----
+*Stuxedo is part of the [Stux.Group](https://github.com/StuxGroup) Brand of Companies.*
