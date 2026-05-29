@@ -47,3 +47,5 @@ If you have any questions, feel free to reach out at [contact@stuxedo.com](mailt
 ---
 
 We appreciate every contribution, no matter how small. Thank you for helping make Stuxedo better!
+
+*Stuxedo is part of the [Stux.Group](https://github.com/StuxGroup) Brand of Companies.*
