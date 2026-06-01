@@ -28,6 +28,18 @@ Stuxedo aims to innovate and create lasting solutions for our clients. Join us o
 
 For inquiries, please reach out at [contact@stuxedo.com](mailto:contact@stuxedo.com). We'd love to hear from you!
 
+### Our Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stuxedo/.github/snake/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Stuxedo/.github/snake/snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Stuxedo/.github/snake/snake.svg" />
+  </picture>
+  <br>
+  <img width="512" src="https://raw.githubusercontent.com/Stuxedo/.github/metrics/stats.svg">
+</div>
+
 ---
 
 Thank you for visiting our profile! Together, we can make a significant impact in the tech community.
