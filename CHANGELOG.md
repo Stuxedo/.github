@@ -5,6 +5,11 @@ All notable changes to Stuxedo's `.github` organization repository are documente
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PATCH).
 
+## v1.0.3
+
+### Changed
+- `CONTRIBUTING.md` and `profile/README.md`'s general contact address changed from `contact@stuxedo.com` to `hello@stuxedo.com`, matching the convention used across other Stux.Group brand repos
+
 ## v1.0.2
 
 ### Changed

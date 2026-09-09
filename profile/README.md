@@ -26,7 +26,7 @@ Stuxedo aims to innovate and create lasting solutions for our clients. Join us o
 
 ### Contact Us
 
-For inquiries, please reach out at [contact@stuxedo.com](mailto:contact@stuxedo.com). We'd love to hear from you!
+For inquiries, please reach out at [hello@stuxedo.com](mailto:hello@stuxedo.com). We'd love to hear from you!
 
 ### Our Activity
 

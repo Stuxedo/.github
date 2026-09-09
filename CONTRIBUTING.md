@@ -42,7 +42,7 @@ By participating in any Stuxedo project, you agree to uphold our community stand
 
 ## Questions
 
-If you have any questions, feel free to reach out at [contact@stuxedo.com](mailto:contact@stuxedo.com) or open a discussion in the relevant repository.
+If you have any questions, feel free to reach out at [hello@stuxedo.com](mailto:hello@stuxedo.com) or open a discussion in the relevant repository.
 
 ---
 
