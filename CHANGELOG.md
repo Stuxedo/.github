@@ -5,6 +5,11 @@ All notable changes to Stuxedo's `.github` organization repository are documente
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PATCH).
 
+## v1.0.5
+
+### Fixed
+- `README.md`, `CONTRIBUTING.md`, and `profile/README.md` said Stuxedo is "a part of the Stux.Group brand" directly — the actual chain is Stuxedo → Stux.Cloud → Stux Group Ltd. Corrected all three to name Stux.Cloud as the direct operator, with Stux Group Ltd's full registration details.
+
 ## v1.0.4
 
 ### Fixed

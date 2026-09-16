@@ -48,4 +48,4 @@ If you have any questions, feel free to reach out at [hello@stuxedo.com](mailto:
 
 We appreciate every contribution, no matter how small. Thank you for helping make Stuxedo better!
 
-*Stuxedo is part of the [Stux.Group](https://github.com/StuxGroup) Brand of Companies.*
+*Stuxedo is operated by [Stux.Cloud](https://services.stux.cloud), which is operated by Stux Group Ltd, a company registered in England and Wales (company no. 13160574), registered office 82a James Carter Road, Mildenhall, England, IP28 7DE.*
