@@ -5,6 +5,11 @@ All notable changes to Stuxedo's `.github` organization repository are documente
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PATCH).
 
+## v1.0.6
+
+### Added
+- `profile/README.md` gained the "Our Projects" table (Instance Page, Maintenance Page, Soon Page) and a `legal@stuxedo.com` contact line, matching the fuller template already used by Stux.Group's own profile.
+
 ## v1.0.5
 
 ### Fixed

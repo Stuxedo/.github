@@ -18,15 +18,24 @@ We are dedicated to delivering exceptional services and solutions. Here's how yo
 
 Stuxedo aims to innovate and create lasting solutions for our clients. Join us on this exciting journey!
 
+### Our Projects
+
+| Project | What it is |
+|---|---|
+| 🚀 [Instance Page](https://github.com/Stuxedo/instancepage) | A landing page template shown for a Stuxedo customer instance/server. |
+| 🛠️ [Maintenance Page](https://github.com/Stuxedo/maintenancepage) | A maintenance-mode splash page template. |
+| ⏳ [Soon Page](https://github.com/Stuxedo/soonpage) | A "coming soon" splash page template. |
+
 ### Get Involved
 
-1. **Explore our projects**: Check out our repository to see what we're working on.
+1. **Explore our projects**: See the table above, or check out our repositories to see what we're working on.
 2. **Follow us on social media**: Stay updated on our latest news and updates.
 3. **Join our community**: Contribute to discussions, suggest improvements, and collaborate with us!
 
 ### Contact Us
 
-For inquiries, please reach out at [hello@stuxedo.com](mailto:hello@stuxedo.com). We'd love to hear from you!
+For inquiries, please reach out at [hello@stuxedo.com](mailto:hello@stuxedo.com). We'd love to hear from you!  
+For legal, privacy, or copyright matters, contact [legal@stuxedo.com](mailto:legal@stuxedo.com) instead.
 
 ### Our Activity
 
