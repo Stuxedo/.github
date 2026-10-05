@@ -5,6 +5,12 @@ All notable changes to Stuxedo's `.github` organization repository are documente
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PATCH).
 
+## v1.0.7
+
+### Changed
+
+- README, organisation profile and CONTRIBUTING footers now match the other Stux.Group brands' `.github` repos: "Built & Maintained by Stuxedo" with the Stuxedo icon from `global.media.stuxedo.com`, "Stuxedo is a part of the Stux.Group brand of businesses", and "Stuxedo is part of the Stux.Group Brand of Companies" in CONTRIBUTING (they previously read "operated by Stux.Cloud, which is operated by Stux Group Ltd…")
+
 ## v1.0.6
 
 ### Added
