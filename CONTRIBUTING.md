@@ -50,6 +50,12 @@ We appreciate every contribution, no matter how small. Thank you for helping mak
 
 *Stuxedo is part of the [Stux.Group](https://github.com/StuxGroup) Brand of Companies.*
 
+## Branches
+
+- Work on `test`, or on a feature branch off it. Never push to `main`
+- Changes reach `main` only through a pull request from `test` into `main`, is reviewed and merged by Leo
+- Merging into `main` updates the organisation profile; release commits and tags are made on `test` (`git push origin test --tags`) and go live when the pull request is merged
+
 ## Versioning
 
 This project uses [Date Versioning](https://datevers.ing). To release:
