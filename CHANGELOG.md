@@ -5,6 +5,12 @@ All notable changes to Stuxedo's `.github` organization repository are documente
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/).
 
+## v26.11.06
+
+### Added
+
+- The organisation profile lists **Stuxedo Status** (status.stuxedo.com, the landing page for Stuxedo Web Status and Stuxedo Server Status), **Stuxedo Server Status** (status.stuxedo.net) and the **Region Page**, and has a Service Status section linking status.stuxedo.com.
+
 ## v26.10.23
 
 ### Added
