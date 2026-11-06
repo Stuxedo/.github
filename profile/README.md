@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://global.media.stuxedo.com/logo.png" height="100" alt="Stuxedo Logo">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stuxedo.com/logo-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stuxedo.com/logo-dark.png"><img src="https://global.media.stuxedo.com/logo-dark.png" height="100" alt="Stuxedo Logo"></picture>
 </p>
 
 ## Welcome to the Stuxedo Official GitHub!
@@ -22,15 +22,24 @@ Stuxedo aims to innovate and create lasting solutions for our clients. Join us o
 
 | Project | What it is |
 |---|---|
-| 🚀 [Instance Page](https://github.com/Stuxedo/instancepage) | A landing page template shown for a Stuxedo customer instance/server. |
-| 🛠️ [Maintenance Page](https://github.com/Stuxedo/maintenancepage) | A maintenance-mode splash page template. |
-| ⏳ [Soon Page](https://github.com/Stuxedo/soonpage) | A "coming soon" splash page template. |
+| 🚦 [Stuxedo Status](https://github.com/Stuxedo/statuspage) | [status.stuxedo.com](https://status.stuxedo.com): pick Stuxedo Web Status (websites, email and hosting) or Stuxedo Server Status. |
+| 💓 [Stuxedo Server Status](https://github.com/Stuxedo/Status) | [status.stuxedo.net](https://status.stuxedo.net): live status of every Stuxedo server, checked every 5 minutes. |
+| 🌍 [Region Page](https://github.com/Stuxedo/regionpage) | [regionpage.stuxedo.net](https://regionpage.stuxedo.net): the Stuxedo server regions, with live status for each server. |
+| 🚀 [Instance Page](https://github.com/Stuxedo/instancepage) | [instancepage.stuxedo.net](https://instancepage.stuxedo.net): the landing page shown for a Stuxedo customer instance or server. |
+| 🛠️ [Maintenance Page](https://github.com/Stuxedo/maintenancepage) | [maintenancepage.stuxedo.net](https://maintenancepage.stuxedo.net): the maintenance-mode splash page. |
+| ⏳ [Soon Page](https://github.com/Stuxedo/soonpage) | [soonpage.stuxedo.net](https://soonpage.stuxedo.net): the "coming soon" splash page. |
+
+The original green designs from before the tuxedo-cat rebrand are kept as `-v1` snapshots: [instancepage-v1](https://github.com/Stuxedo/instancepage-v1), [maintenancepage-v1](https://github.com/Stuxedo/maintenancepage-v1), [regionpage-v1](https://github.com/Stuxedo/regionpage-v1) and [soonpage-v1](https://github.com/Stuxedo/soonpage-v1).
 
 ### Get Involved
 
 1. **Explore our projects**: See the table above, or check out our repositories to see what we're working on.
 2. **Follow us on social media**: Stay updated on our latest news and updates.
 3. **Join our community**: Contribute to discussions, suggest improvements, and collaborate with us!
+
+### Service Status
+
+Check how Stuxedo's websites, hosting and servers are doing at [status.stuxedo.com](https://status.stuxedo.com).
 
 ### Contact Us
 
@@ -47,5 +56,5 @@ For legal, privacy, or copyright matters, contact [legal@stuxedo.com](mailto:leg
 
 Thank you for visiting our profile! Together, we can make a significant impact in the tech community.
 
-*Built & Maintained by <img src="https://global.media.stuxedo.com/icon.png" height="14" alt="Stuxedo" valign="middle"> [Stuxedo](https://github.com/Stuxedo).  
-Stuxedo is a part of the <img src="https://global.media.stux.group/icon.png" height="14" alt="Stux.Group" valign="middle"> Stux.Group brand of businesses.*
+*Built & Maintained by <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stuxedo.com/icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stuxedo.com/icon-dark.png"><img src="https://global.media.stuxedo.com/icon-dark.png" height="14" alt="Stuxedo" valign="middle"></picture> [Stuxedo](https://github.com/Stuxedo).  
+Stuxedo is a part of the <picture><source media="(prefers-color-scheme: dark)" srcset="https://global.media.stux.group/icon-light.png"><source media="(prefers-color-scheme: light)" srcset="https://global.media.stux.group/icon-dark.png"><img src="https://global.media.stux.group/icon-dark.png" height="14" alt="Stux.Group" valign="middle"></picture> Stux.Group brand of businesses.*
