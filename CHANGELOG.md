@@ -5,6 +5,18 @@ All notable changes to Stuxedo's `.github` organization repository are documente
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/).
 
+## v26.11.06-1
+
+### Added
+
+- The profile's project table links each project's live site and mentions the `-v1` design snapshots.
+
+### Changed
+
+- This repository's README describes what's actually in it (the profile, the metrics workflow, CONTRIBUTING and the release scripts) instead of issue templates, workflow templates and community files it never had.
+- The logos in the profile and README switch between light and dark versions to match GitHub's theme.
+- The README's licence line is now a Stux.Group copyright notice.
+
 ## v26.11.06
 
 ### Added
