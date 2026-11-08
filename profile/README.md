@@ -23,7 +23,7 @@ Stuxedo aims to innovate and create lasting solutions for our clients. Join us o
 | Project | What it is |
 |---|---|
 | 🚦 [Stuxedo Status](https://github.com/Stuxedo/statuspage) | [status.stuxedo.com](https://status.stuxedo.com): pick Stuxedo Web Status (websites, email and hosting) or Stuxedo Server Status. |
-| 💓 [Stuxedo Server Status](https://github.com/Stuxedo/Status) | [status.stuxedo.net](https://status.stuxedo.net): live status of every Stuxedo server, checked every 5 minutes. |
+| 💓 [Stuxedo Server Status](https://github.com/Stuxedo/Status) | [status.stuxedo.net](https://status.stuxedo.net): live status of every Stuxedo server, checked regularly. |
 | 🌍 [Region Page](https://github.com/Stuxedo/regionpage) | [regionpage.stuxedo.net](https://regionpage.stuxedo.net): the Stuxedo server regions, with live status for each server. |
 | 🚀 [Instance Page](https://github.com/Stuxedo/instancepage) | [instancepage.stuxedo.net](https://instancepage.stuxedo.net): the landing page shown for a Stuxedo customer instance or server. |
 | 🛠️ [Maintenance Page](https://github.com/Stuxedo/maintenancepage) | [maintenancepage.stuxedo.net](https://maintenancepage.stuxedo.net): the maintenance-mode splash page. |

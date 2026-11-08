@@ -5,6 +5,12 @@ All notable changes to Stuxedo's `.github` organization repository are documente
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/).
 
+## v26.11.08
+
+### Changed
+
+- **Stuxedo Server Status is "checked regularly".** The profile no longer promises a check every 5 minutes, as GitHub runs that schedule best-effort.
+
 ## v26.11.07
 
 ### Changed
